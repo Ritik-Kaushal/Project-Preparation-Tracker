@@ -1,0 +1,21 @@
+.component_topic_row{
+    margin : 2px;
+    padding : 4px;
+    border-style: outset;
+    background-color: aqua;
+}
+
+.component_heading{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.display{
+    font-size: 250%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+a.router-link-active {
+    background: rgb(0, 0, 0);
+}
